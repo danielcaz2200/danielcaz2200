@@ -7,5 +7,5 @@
 - 📫 How to reach me: www.linkedin.com/in/daniel-cazarez-571845228 or danc20182@gmail.com or danielcaz2200@csu.fullerton.edu
 - 😄 Pronouns: He/Him
 
-### 👇 Connect with me on LinkedIn
-[LinkedIn](https://www.linkedin.com/in/daniel-cazarez-571845228)
+### Connect with me on LinkedIn 👉 [LinkedIn](https://www.linkedin.com/in/daniel-cazarez-571845228)
+
