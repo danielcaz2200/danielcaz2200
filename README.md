@@ -9,7 +9,7 @@
 
 ### 👇 Connect with me on LinkedIn!
 <p>
- <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="img/linkedin.png" alt="linkedin" width="30px"> LinkedIn
+ <a href="www.linkedin.com/in/daniel-cazarez-571845228" rel="nofollow noreferrer">
+    <img src="img/linkedin.png" alt="linkedin" width="30px">
   </a> &nbsp; 
 </p>
