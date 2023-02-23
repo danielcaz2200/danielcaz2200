@@ -8,8 +8,4 @@
 - 😄 Pronouns: He/Him
 
 ### 👇 Connect with me on LinkedIn!
-<p>
- <a href="www.linkedin.com/in/daniel-cazarez-571845228" rel="nofollow noreferrer">
-    <img src="img/linkedin.png" alt="linkedin" width="30px">
-  </a>
-</p>
+![LinkedIn](img/linkedin.png)
