@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My name's Daniel :smile:
-- :books: Current student at CSU Fullerton studying CS
+- :books: Computer Science graudate from CSU Fullerton
 - :heart: I'm interested in data visualization and parsing
 - 🌱 I’m currently learning web development (front-end and backend)
 - 🤔 I’m looking for help with learning front-end development!
